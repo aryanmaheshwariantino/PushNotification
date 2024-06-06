@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947901839858",
+    "project_id": "pushnotification-a8eba",
+    "storage_bucket": "pushnotification-a8eba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947901839858:android:9116f7c27e374168ec536b",
+        "android_client_info": {
+          "package_name": "com.aryan.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBimjHjGra-kU3OzljP5Kze5hjsmR_c23w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
